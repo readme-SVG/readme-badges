@@ -1,0 +1,40 @@
+name: Documentation checks
+
+on:
+  push:
+    paths:
+      - 'README.md'
+      - 'CONTRIBUTING.md'
+      - 'CODE_OF_CONDUCT.md'
+      - 'SECURITY.md'
+      - 'docs/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/docs.yml'
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'CONTRIBUTING.md'
+      - 'CODE_OF_CONDUCT.md'
+      - 'SECURITY.md'
+      - 'docs/**'
+      - 'scripts/**'
+      - 'tests/**'
+      - '.github/workflows/docs.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check-docs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Test documentation checker
+        run: python3 -m unittest discover -s tests -v
+      - name: Check documentation and translations
+        run: python3 scripts/check_docs.py

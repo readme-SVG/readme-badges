@@ -1,8 +1,8 @@
-[![CODE_OF_CONDUCT](https://github.com/OstinUA/Promt-AI-Helper/blob/main/Additional%20files/Image/CODE_OF_CONDUCT.svg)](https://github.com/OstinUA)
+[![CODE_OF_CONDUCT](https://raw.githubusercontent.com/OstinUA/Promt-AI-Helper/main/Additional%20files/Image/CODE_OF_CONDUCT.svg)](https://github.com/OstinUA)
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor_Covenant-2.1-4baaaa?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://www.contributor-covenant.org)
-[![Be Kind](https://img.shields.io/badge/Be-Kind-brightgreen?style=for-the-badge&logo=heart&logoColor=white)](https://github.com/OstinUA)
-[![OstinUA](https://capsule-render.vercel.app/api?type=rect&color=4baaaa&height=2&)](https://github.com/OstinUA)
+[![Be Kind](https://img.shields.io/badge/Be-Kind-brightgreen?style=for-the-badge)](https://github.com/OstinUA)
+[![](https://capsule-render.vercel.app/api?type=rect&color=4baaaa&height=2&)](https://github.com/OstinUA)
 
 This is an open and welcoming space. Everyone who participates — whether by opening an Issue, submitting a PR, or just leaving a comment — is expected to treat others with basic respect. That's really all this comes down to.
 
@@ -41,4 +41,4 @@ This Code of Conduct is inspired by the [Contributor Covenant](https://www.contr
 
 The main rule is simple: be the kind of contributor you'd want to work with.
 
-[![OstinUA](https://capsule-render.vercel.app/api?type=rect&color=4baaaa&height=2&)](https://github.com/OstinUA)
+[![](https://capsule-render.vercel.app/api?type=rect&color=4baaaa&height=2&)](https://github.com/OstinUA)

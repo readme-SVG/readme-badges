@@ -1,8 +1,8 @@
-[![SECURITY](https://github.com/OstinUA/Promt-AI-Helper/blob/main/Additional%20files/Image/SECURITY.svg)](https://github.com/OstinUA)
+[![SECURITY](https://raw.githubusercontent.com/OstinUA/Promt-AI-Helper/main/Additional%20files/Image/SECURITY.svg)](https://github.com/OstinUA)
 
-[![Security Policy](https://img.shields.io/badge/Security-Policy-red?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/OstinUA)
+[![Security Policy](https://img.shields.io/badge/Security-Policy-red?style=for-the-badge)](https://github.com/OstinUA)
 [![Report Vulnerability](https://img.shields.io/badge/Report-Vulnerability-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OstinUA)
-[![OstinUA](https://capsule-render.vercel.app/api?type=rect&color=e05d44&height=2&)](https://github.com/OstinUA)
+[![](https://capsule-render.vercel.app/api?type=rect&color=e05d44&height=2&)](https://github.com/OstinUA)
 
 Security is something I take seriously. If you've found a vulnerability in any of my projects, I genuinely appreciate you taking the time to let me know — responsibly.
 
@@ -39,4 +39,4 @@ This policy applies to all public repositories under the [OstinUA](https://githu
 
 Thank you for helping keep this project and its users safe.
 
-[![OstinUA](https://capsule-render.vercel.app/api?type=rect&color=e05d44&height=2&)](https://github.com/OstinUA)
+[![](https://capsule-render.vercel.app/api?type=rect&color=e05d44&height=2&)](https://github.com/OstinUA)
